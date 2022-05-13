@@ -25,7 +25,5 @@ public class Aula12_05_22 {
                 System.out.println("Seu número não corresponde.");
                 
             }
-        
-        
     }
 }
